@@ -1,0 +1,23 @@
+
+[
+  {
+    "firstName": "Mahmoud",
+    "lastName": "Hossam",
+    "email": "mahmoud115@outlook.com",
+    "password": "pass@mmm2",
+    "confirm password": "pass@mmm2",
+    "invalid email" : "mahmoud.hossam123gmail.com",
+    "different pass": "pass@mmm1",
+    "invalid pass": "invalidpass",
+    "checkout_loginmail": "mahmoud_12333@outlook.com",
+    "checkout_pass": "pass@mmm2",
+    "check out email": "mahmoud.hossam6873@gmail.com",
+    "street1": "giza",
+    "street2": "6october",
+    "street3": "first neighborhood_eltahrir street",
+    "city": "giza",
+    "postal code": "12573",
+    "phone": "01144947674"
+  }
+
+]
